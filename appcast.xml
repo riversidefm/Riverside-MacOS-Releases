@@ -3,12 +3,12 @@
     <channel>
         <title>Riverside Studio</title>
         <item>
-            <title>0.7.1</title>
-            <pubDate>Mon, 31 Jul 2023 12:50:26 +0300</pubDate>
+            <title>0.7.2</title>
+            <pubDate>Mon, 31 Jul 2023 13:36:06 +0300</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/riversidefm/Riverside-MacOS-Releases/releases/download/0.7.1/RiversideStudio.dmg" length="70252775" type="application/octet-stream" sparkle:edSignature="U5GVavVOzsjNZUQPVOlcZe/eWwOf1GC/rjE06cOz/+121zUp5ckaokFmK4BbFpFJBQ6gLkiA9aSnKID9yBQmBw=="/>
+            <enclosure url="https://github.com/riversidefm/Riverside-MacOS-Releases/releases/download/0.7.2/RiversideStudio.dmg" length="70267680" type="application/octet-stream" sparkle:edSignature="Q6tqV4kYxANsxjn8cz62ITPBSftB+tUXPK+x8DL9rzFxN0zXNYA7sKtoR5V7ICMFI7+ZirlVcM6vOsDU0xD6BQ=="/>
         </item>
     </channel>
 </rss>
